@@ -1,3 +1,7 @@
+Заданий масив рядків. В рядку може бути група слів, обмежена дужками. В даних групах знайти найдовше слово і видалити його.
+Найти строчку, в которой больше всего групп слов в скобках
+И найти количество таких групп в каждой строке и вывести в конце строки
+
 (ljflsidj ljdsfli jls) jdslfij lidjsflij djlisj djfil (ldjfjdflijd ljfdkijflsi jlsdfji)
 islfjdj (lifdjs jdislj ildj ijlsdj idlsj) jildsj lidsjfl (jfsld) djislfj lid (jfsdlij ldijf sjd ildf)
 jfsdlj lijsdlifj (jflsidj ljidfidsjlifjdlisj ijlsdfl) jslf
